@@ -1,0 +1,15 @@
+{
+  "name": "LocalForge AI",
+  "version": "3.0.0",
+  "description": "Multi-provider AI workspace deployed on Cloudflare Workers with server-side API secrets.",
+  "majorCapabilities": [
+    "Cloudflare Worker API",
+    "Gemini",
+    "OpenAI",
+    "Anthropic",
+    "xAI",
+    "Local RAG",
+    "Browser Ollama",
+    "PWA"
+  ]
+}
